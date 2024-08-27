@@ -77,10 +77,10 @@ public void setPrivacyPolicy() {
 
 public void clickContinue() {
 	//sol1 
-	btnContinue.click();
+	//btnContinue.click();
 	
 	//sol2 
-	//btnContinue.submit();
+	btnContinue.submit();
 	
 	//sol3
 	//Actions act=new Actions(driver);
