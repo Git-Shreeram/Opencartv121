@@ -2,6 +2,7 @@ package pageObjects;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 
 public class AccountRegistrationPage extends BasePage{
@@ -80,11 +81,11 @@ public void clickContinue() {
 	//btnContinue.click();
 	
 	//sol2 
-	btnContinue.submit();
+	//btnContinue.submit();
 	
 	//sol3
-	//Actions act=new Actions(driver);
-	//act.moveToElement(btnContinue).click().perform();
+	Actions act=new Actions(driver);
+	act.moveToElement(btnContinue).click().perform();
 				
 	//sol4
 	//JavascriptExecutor js=(JavascriptExecutor)driver;
