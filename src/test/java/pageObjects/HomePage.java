@@ -17,7 +17,9 @@ WebElement lnkMyaccount;
 
 @FindBy(xpath="//a[normalize-space()='Register']") 
 WebElement lnkRegister;
-
+ 
+@FindBy(xpath="//a[text()='Login']")
+WebElement linklogin;
 
 
 public void clickMyAccount()
@@ -28,6 +30,10 @@ public void clickMyAccount()
 public void clickRegister()
 {
 	lnkRegister.click();
+}
+public void clicklogin()
+{
+ linklogin.click();	
 }
 
 }
