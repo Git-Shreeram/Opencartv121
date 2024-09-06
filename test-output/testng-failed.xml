@@ -6,19 +6,18 @@
     <parameter name="browser" value="chrome"/>
     <groups>
       <run>
-        <include name="Sanity"/>
         <include name="Regression"/>
         <exclude name=""/>
       </run>
     </groups>
     <classes>
-      <class name="testCases.TC_001_AccountRegistrationTest">
+      <class name="testCases.TC_003_SearchProduct">
         <methods>
           <include name="tearDown"/>
-          <include name="verify_account_registration"/>
+          <include name="verify_searchProduct"/>
           <include name="setup"/>
         </methods>
-      </class> <!-- testCases.TC_001_AccountRegistrationTest -->
+      </class> <!-- testCases.TC_003_SearchProduct -->
     </classes>
   </test> <!-- ChromeTest(failed) -->
 </suite> <!-- Failed suite [Suite] -->
