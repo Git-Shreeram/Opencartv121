@@ -61,3 +61,25 @@
 2024-09-07 00:45:12 INFO  TC_003_SearchProduct:33 - **** search box entered mac  ****
 2024-09-07 00:45:13 INFO  TC_003_SearchProduct:35 - ****clicked on search button  ****
 2024-09-07 00:45:16 INFO  TC_003_SearchProduct:39 - **** Finished TC_003_SearchProduct ****
+2024-09-07 07:19:25 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-09-07 07:19:26 INFO  TC002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-09-07 07:19:26 INFO  TC002_LoginTest:27 - clicked on login link under myaccount..
+2024-09-07 07:19:26 INFO  TC002_LoginTest:31 - Entering valid email and password..
+2024-09-07 07:19:28 INFO  TC002_LoginTest:36 - clicked on ligin button..
+2024-09-07 07:19:28 INFO  TC002_LoginTest:50 - **** Finished TC_002_LoginTest  ****
+2024-09-07 07:19:35 INFO  TC_003_SearchProduct:22 - Entering valid email and password..
+2024-09-07 07:19:36 INFO  TC_003_SearchProduct:27 - clicked on ligin button..
+2024-09-07 07:19:37 INFO  TC_003_SearchProduct:31 - **** search box entered mac  ****
+2024-09-07 07:19:37 INFO  TC_003_SearchProduct:33 - ****clicked on search button  ****
+2024-09-07 07:19:40 INFO  TC_003_SearchProduct:37 - **** Finished TC_003_SearchProduct ****
+2024-09-07 07:20:07 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-09-07 07:20:08 INFO  TC002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-09-07 07:20:09 INFO  TC002_LoginTest:27 - clicked on login link under myaccount..
+2024-09-07 07:20:09 INFO  TC002_LoginTest:31 - Entering valid email and password..
+2024-09-07 07:20:11 INFO  TC002_LoginTest:36 - clicked on ligin button..
+2024-09-07 07:20:11 INFO  TC002_LoginTest:50 - **** Finished TC_002_LoginTest  ****
+2024-09-07 07:20:22 INFO  TC_003_SearchProduct:22 - Entering valid email and password..
+2024-09-07 07:20:26 INFO  TC_003_SearchProduct:27 - clicked on ligin button..
+2024-09-07 07:20:26 INFO  TC_003_SearchProduct:31 - **** search box entered mac  ****
+2024-09-07 07:20:27 INFO  TC_003_SearchProduct:33 - ****clicked on search button  ****
+2024-09-07 07:20:30 INFO  TC_003_SearchProduct:37 - **** Finished TC_003_SearchProduct ****

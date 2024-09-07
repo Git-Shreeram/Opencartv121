@@ -21,9 +21,9 @@ public class SearchProduct extends BasePage {
 	@FindBy(xpath="//h1[text()='Search - mac']")//cnfmsg
 	WebElement cnfmsg;
 	
-	public void searchbox()
+	public void searchbox(String productName)
 	{
-		searchbox.sendKeys("mac");
+		searchbox.sendKeys(productName);
 	}
 
 	public void searchbutton()

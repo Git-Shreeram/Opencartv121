@@ -1,7 +1,5 @@
 package testCases;
 
-import static org.testng.Assert.assertEquals;
-
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
@@ -29,7 +27,7 @@ public class TC_003_SearchProduct extends BaseClass {
 	logger.info("clicked on ligin button..");
 	
 	SearchProduct sp=new SearchProduct(driver);
-	sp.searchbox();//search box entered mac
+	sp.searchbox(p.getProperty("productName"));//search box entered mac
 	logger.info("**** search box entered mac  ****");
 	sp.searchbutton();
 	logger.info("****clicked on search button  ****");
