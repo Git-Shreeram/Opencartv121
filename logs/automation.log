@@ -1,85 +1,29 @@
-2024-09-07 00:17:53 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
-2024-09-07 00:17:54 INFO  TC002_LoginTest:25 - clicked on myaccount link on the home page..
-2024-09-07 00:17:54 INFO  TC002_LoginTest:27 - clicked on login link under myaccount..
-2024-09-07 00:17:54 INFO  TC002_LoginTest:31 - Entering valid email and password..
-2024-09-07 00:17:56 INFO  TC002_LoginTest:36 - clicked on ligin button..
-2024-09-07 00:17:56 INFO  TC002_LoginTest:50 - **** Finished TC_002_LoginTest  ****
-2024-09-07 00:21:50 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
-2024-09-07 00:21:50 INFO  TC002_LoginTest:25 - clicked on myaccount link on the home page..
-2024-09-07 00:21:51 INFO  TC002_LoginTest:27 - clicked on login link under myaccount..
-2024-09-07 00:21:51 INFO  TC002_LoginTest:31 - Entering valid email and password..
-2024-09-07 00:21:53 INFO  TC002_LoginTest:36 - clicked on ligin button..
-2024-09-07 00:21:53 INFO  TC002_LoginTest:50 - **** Finished TC_002_LoginTest  ****
-2024-09-07 00:22:02 INFO  TC_003_SearchProduct:24 - Entering valid email and password..
-2024-09-07 00:22:04 INFO  TC_003_SearchProduct:29 - clicked on ligin button..
-2024-09-07 00:24:40 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
-2024-09-07 00:24:42 INFO  TC002_LoginTest:25 - clicked on myaccount link on the home page..
-2024-09-07 00:24:42 INFO  TC002_LoginTest:27 - clicked on login link under myaccount..
-2024-09-07 00:24:42 INFO  TC002_LoginTest:31 - Entering valid email and password..
-2024-09-07 00:24:43 INFO  TC002_LoginTest:36 - clicked on ligin button..
-2024-09-07 00:24:44 INFO  TC002_LoginTest:50 - **** Finished TC_002_LoginTest  ****
-2024-09-07 00:24:51 INFO  TC_003_SearchProduct:24 - Entering valid email and password..
-2024-09-07 00:24:52 INFO  TC_003_SearchProduct:29 - clicked on ligin button..
-2024-09-07 00:28:59 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
-2024-09-07 00:29:01 INFO  TC002_LoginTest:25 - clicked on myaccount link on the home page..
-2024-09-07 00:29:01 INFO  TC002_LoginTest:27 - clicked on login link under myaccount..
-2024-09-07 00:29:01 INFO  TC002_LoginTest:31 - Entering valid email and password..
-2024-09-07 00:29:03 INFO  TC002_LoginTest:36 - clicked on ligin button..
-2024-09-07 00:29:03 INFO  TC002_LoginTest:50 - **** Finished TC_002_LoginTest  ****
-2024-09-07 00:29:10 INFO  TC_003_SearchProduct:24 - Entering valid email and password..
-2024-09-07 00:29:12 INFO  TC_003_SearchProduct:29 - clicked on ligin button..
-2024-09-07 00:41:09 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
-2024-09-07 00:41:11 INFO  TC002_LoginTest:25 - clicked on myaccount link on the home page..
-2024-09-07 00:41:11 INFO  TC002_LoginTest:27 - clicked on login link under myaccount..
-2024-09-07 00:41:11 INFO  TC002_LoginTest:31 - Entering valid email and password..
-2024-09-07 00:41:13 INFO  TC002_LoginTest:36 - clicked on ligin button..
-2024-09-07 00:41:13 INFO  TC002_LoginTest:50 - **** Finished TC_002_LoginTest  ****
-2024-09-07 00:41:21 INFO  TC_003_SearchProduct:24 - Entering valid email and password..
-2024-09-07 00:41:22 INFO  TC_003_SearchProduct:29 - clicked on ligin button..
-2024-09-07 00:41:22 INFO  TC_003_SearchProduct:33 - **** search box entered mac  ****
-2024-09-07 00:41:23 INFO  TC_003_SearchProduct:35 - ****clicked on search button  ****
-2024-09-07 00:41:23 INFO  TC_003_SearchProduct:39 - **** Finished TC_002_LoginTest  ****
-2024-09-07 00:43:11 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
-2024-09-07 00:43:12 INFO  TC002_LoginTest:25 - clicked on myaccount link on the home page..
-2024-09-07 00:43:12 INFO  TC002_LoginTest:27 - clicked on login link under myaccount..
-2024-09-07 00:43:12 INFO  TC002_LoginTest:31 - Entering valid email and password..
-2024-09-07 00:43:13 INFO  TC002_LoginTest:36 - clicked on ligin button..
-2024-09-07 00:43:14 INFO  TC002_LoginTest:50 - **** Finished TC_002_LoginTest  ****
-2024-09-07 00:43:21 INFO  TC_003_SearchProduct:24 - Entering valid email and password..
-2024-09-07 00:43:22 INFO  TC_003_SearchProduct:29 - clicked on ligin button..
-2024-09-07 00:43:22 INFO  TC_003_SearchProduct:33 - **** search box entered mac  ****
-2024-09-07 00:43:23 INFO  TC_003_SearchProduct:35 - ****clicked on search button  ****
-2024-09-07 00:43:23 INFO  TC_003_SearchProduct:39 - **** Finished TC_003_SearchProduct ****
-2024-09-07 00:44:56 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
-2024-09-07 00:44:56 INFO  TC002_LoginTest:25 - clicked on myaccount link on the home page..
-2024-09-07 00:44:57 INFO  TC002_LoginTest:27 - clicked on login link under myaccount..
-2024-09-07 00:44:57 INFO  TC002_LoginTest:31 - Entering valid email and password..
-2024-09-07 00:44:59 INFO  TC002_LoginTest:36 - clicked on ligin button..
-2024-09-07 00:44:59 INFO  TC002_LoginTest:50 - **** Finished TC_002_LoginTest  ****
-2024-09-07 00:45:08 INFO  TC_003_SearchProduct:24 - Entering valid email and password..
-2024-09-07 00:45:12 INFO  TC_003_SearchProduct:29 - clicked on ligin button..
-2024-09-07 00:45:12 INFO  TC_003_SearchProduct:33 - **** search box entered mac  ****
-2024-09-07 00:45:13 INFO  TC_003_SearchProduct:35 - ****clicked on search button  ****
-2024-09-07 00:45:16 INFO  TC_003_SearchProduct:39 - **** Finished TC_003_SearchProduct ****
-2024-09-07 07:19:25 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
-2024-09-07 07:19:26 INFO  TC002_LoginTest:25 - clicked on myaccount link on the home page..
-2024-09-07 07:19:26 INFO  TC002_LoginTest:27 - clicked on login link under myaccount..
-2024-09-07 07:19:26 INFO  TC002_LoginTest:31 - Entering valid email and password..
-2024-09-07 07:19:28 INFO  TC002_LoginTest:36 - clicked on ligin button..
-2024-09-07 07:19:28 INFO  TC002_LoginTest:50 - **** Finished TC_002_LoginTest  ****
-2024-09-07 07:19:35 INFO  TC_003_SearchProduct:22 - Entering valid email and password..
-2024-09-07 07:19:36 INFO  TC_003_SearchProduct:27 - clicked on ligin button..
-2024-09-07 07:19:37 INFO  TC_003_SearchProduct:31 - **** search box entered mac  ****
-2024-09-07 07:19:37 INFO  TC_003_SearchProduct:33 - ****clicked on search button  ****
-2024-09-07 07:19:40 INFO  TC_003_SearchProduct:37 - **** Finished TC_003_SearchProduct ****
-2024-09-07 07:20:07 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
-2024-09-07 07:20:08 INFO  TC002_LoginTest:25 - clicked on myaccount link on the home page..
-2024-09-07 07:20:09 INFO  TC002_LoginTest:27 - clicked on login link under myaccount..
-2024-09-07 07:20:09 INFO  TC002_LoginTest:31 - Entering valid email and password..
-2024-09-07 07:20:11 INFO  TC002_LoginTest:36 - clicked on ligin button..
-2024-09-07 07:20:11 INFO  TC002_LoginTest:50 - **** Finished TC_002_LoginTest  ****
-2024-09-07 07:20:22 INFO  TC_003_SearchProduct:22 - Entering valid email and password..
-2024-09-07 07:20:26 INFO  TC_003_SearchProduct:27 - clicked on ligin button..
-2024-09-07 07:20:26 INFO  TC_003_SearchProduct:31 - **** search box entered mac  ****
-2024-09-07 07:20:27 INFO  TC_003_SearchProduct:33 - ****clicked on search button  ****
-2024-09-07 07:20:30 INFO  TC_003_SearchProduct:37 - **** Finished TC_003_SearchProduct ****
+2024-09-08 09:48:48 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-09-08 09:48:49 INFO  TC002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-09-08 09:48:49 INFO  TC002_LoginTest:27 - clicked on login link under myaccount..
+2024-09-08 09:48:50 INFO  TC002_LoginTest:31 - Entering valid email and password..
+2024-09-08 09:48:51 INFO  TC002_LoginTest:36 - clicked on ligin button..
+2024-09-08 09:48:51 INFO  TC002_LoginTest:50 - **** Finished TC_002_LoginTest  ****
+2024-09-08 09:48:58 INFO  TC_003_SearchProduct:22 - Entering valid email and password..
+2024-09-08 09:48:59 INFO  TC_003_SearchProduct:27 - clicked on ligin button..
+2024-09-08 09:49:00 INFO  TC_003_SearchProduct:31 - **** search box entered mac  ****
+2024-09-08 09:49:00 INFO  TC_003_SearchProduct:33 - ****clicked on search button  ****
+2024-09-08 09:49:03 INFO  TC_003_SearchProduct:37 - **** Finished TC_003_SearchProduct ****
+2024-09-08 15:01:31 INFO  TC002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2024-09-08 15:01:32 INFO  TC002_LoginTest:25 - clicked on myaccount link on the home page..
+2024-09-08 15:01:33 INFO  TC002_LoginTest:27 - clicked on login link under myaccount..
+2024-09-08 15:01:33 INFO  TC002_LoginTest:31 - Entering valid email and password..
+2024-09-08 15:01:34 INFO  TC002_LoginTest:36 - clicked on ligin button..
+2024-09-08 15:01:34 INFO  TC002_LoginTest:50 - **** Finished TC_002_LoginTest  ****
+2024-09-08 15:01:41 INFO  TC_003_SearchProduct:22 - Entering valid email and password..
+2024-09-08 15:01:43 INFO  TC_003_SearchProduct:27 - clicked on ligin button..
+2024-09-08 15:01:43 INFO  TC_003_SearchProduct:31 - **** search box entered mac  ****
+2024-09-08 15:01:44 INFO  TC_003_SearchProduct:33 - ****clicked on search button  ****
+2024-09-08 15:01:47 INFO  TC_003_SearchProduct:37 - **** Finished TC_003_SearchProduct ****
+2024-09-08 15:28:49 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2024-09-08 15:28:51 INFO  TC_001_AccountRegistrationTest:21 - Clicked on MyAccount Link.. 
+2024-09-08 15:28:52 INFO  TC_001_AccountRegistrationTest:24 - Clicked on Register Link.. 
+2024-09-08 15:28:52 INFO  TC_001_AccountRegistrationTest:28 - Providing customer details...
+2024-09-08 15:28:54 INFO  TC_001_AccountRegistrationTest:42 - Validating expected message..
+2024-09-08 15:28:54 INFO  TC_001_AccountRegistrationTest:47 - Test passed
+2024-09-08 15:28:54 INFO  TC_001_AccountRegistrationTest:56 - ***** Finished TC001_AccountRegistrationTest *****
